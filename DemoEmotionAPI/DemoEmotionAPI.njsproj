@@ -30,6 +30,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="public\js\app.js" />
     <Compile Include="server.js" />
     <Content Include="config.json" />
     <Content Include="package.json" />
@@ -38,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
+    <Folder Include="public\js\" />
     <Folder Include="public\vendor\" />
     <Folder Include="public\upload\" />
     <Folder Include="src\" />
