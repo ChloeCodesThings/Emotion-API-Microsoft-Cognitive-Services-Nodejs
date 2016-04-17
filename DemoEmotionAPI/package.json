@@ -1,0 +1,17 @@
+{
+  "name": "DemoEmotionAPI",
+  "version": "0.0.0",
+  "description": "DemoEmotionAPI",
+  "main": "app.js",
+  "author": {
+    "name": "Henry Ruiz",
+    "email": ""
+  },
+  "dependencies": {
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0",
+    "multiparty": "^4.1.2",
+    "request": "^2.71.0"
+
+  }
+}
