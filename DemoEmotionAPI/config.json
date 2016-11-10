@@ -1,5 +1,5 @@
 ﻿{
-  "EMOTION_API_KEY": "853c8db797bb4025a5eda72a0d11bb12",
+  "EMOTION_API_KEY": "<API>",
 
   "EMOTION_API_ENDPOINT": "https://api.projectoxford.ai/emotion/v1.0/recognize"
 }
